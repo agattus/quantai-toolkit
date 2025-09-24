@@ -1,0 +1,17 @@
+# Data fetching
+yfinance
+pandas
+numpy
+
+# Analytics & plotting
+matplotlib
+seaborn
+
+# AI / ML
+scikit-learn
+prophet
+tensorflow
+
+# Optional for notebooks
+jupyter
+notebook
